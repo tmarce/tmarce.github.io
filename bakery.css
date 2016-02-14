@@ -1,0 +1,76 @@
+/*TeamCarbs - Codefellows 2016*/
+/*Subpage, Columbia City Bakery*/
+
+    html {
+      height: 100%;
+      background-color: brown;
+      font-family: "Comic Sans MS", cursive, sans-serif;
+      word-wrap: break-word;
+    }
+
+    body {
+       width: 100%;
+       height: 100%;
+    }
+
+    header {
+        color: white;
+        background-color: #FF843F;
+        text-align: center;
+        padding: 5px;
+        display: block;
+    }
+
+    nav {
+        background-color: #FFC05F;
+        border-width: 5px;
+        border-color: #980000;
+        width: 100%;
+        float: left;
+    }
+    nav ul {
+        float: left;
+        list-style-type: none;
+    }
+    nav li {
+        float: left;
+        border: 20px;
+        border-style: groove;
+        border-color: brown;
+    }
+
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 4px 4px 4px 4px;
+        vertical-align: middle;
+    }
+
+    a {
+        color: #FF0033;
+    }
+
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+
+    }
+
+    section {
+        width: 100%;
+        display: inline-block;
+        background-color: #FFFF99;
+        float: left;
+        text-indent: 40px;
+    }
+
+    footer {
+        width: 100%;
+        padding: 5px;
+        background-color: #531F18;
+        color: white;
+        clear: both;
+        display: block;
+        text-align: center;
+    }
